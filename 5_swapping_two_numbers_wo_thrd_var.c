@@ -11,4 +11,4 @@ int main(){
     printf("Now the first variable is = %d", a);
     printf("\nNow the second variable is = %d", b);
     return 0;
-}
+} 
